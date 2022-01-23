@@ -14,4 +14,4 @@
 - 이후 구체화 단계에서는  **HTML**, **CSS** ,**JS** 를 이용해서 제작하였습니다.
 	> 기획 의도와 달리 원하는대로 컨트롤이 어려웠고 기존의  **template** 을 참고하여 제작하였습니다.
 
-![웹페이지 화면](https://user-images.githubusercontent.com/95206325/150679959-ade24468-d53a-47a4-8815-dbba96621094.jpg)
+![웹페이지 화면](https://user-images.githubusercontent.com/95206325/150680159-af4308f4-4c56-4e07-a1cf-fbd04611cc5c.jpg)
